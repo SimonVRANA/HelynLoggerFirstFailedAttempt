@@ -1,0 +1,15 @@
+{
+  "name": "com.helyn.unity.helynlogger",
+  "displayName": "Helyn logger",
+  "version": "1.0.0",
+  "description": "This is an implementation or the C# logger for Unity.",
+  "keywords": [
+    "Helyn",
+    "logger",
+    "C#"
+  ],
+  "repository": {
+    "url": "https://github.com/SimonVRANA/HelynLogger.git/com.helyn.unity.helynlogger",
+    "type": "git"
+  }
+}
